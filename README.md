@@ -20,6 +20,9 @@
 [<img align="left" alt="visual-studio-code" width="25px" src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/512?cb=20191019024151" />][visual-studio]
 
 <br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CK1412&layout=compact&theme=radical)](https://github.com/CK1412/github-readme-stats)
 
 ---
 
