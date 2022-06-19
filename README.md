@@ -1,9 +1,9 @@
 ### *Hi there &#128075; ,I'm Tran Huy Canh*
 <h3><img src="https://media.giphy.com/media/ZZZeBiHekVp45F3Dr6/giphy.gif" width="60" height="50" align="center"> Welcome to my Github page</h3>
 
-### Connect with me: 
-[<img align="left" alt="facebook" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
-[<img align="left" alt="instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+### Connect with me via: trancanh1201@gmail.com 
+<!-- [<img align="left" alt="facebook" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
+[<img align="left" alt="instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram] -->
 
 <br/>
 
@@ -23,8 +23,8 @@
 
 ---
 
-[facebook]: https://www.facebook.com/trancanh1201
-[instagram]: https://www.instagram.com/coolkid15253545/
+[facebook]:
+[instagram]:
 
 [flutter]: https://docs.flutter.dev/
 [dart]: https://dart.dev/guides
