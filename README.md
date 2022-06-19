@@ -1,4 +1,4 @@
-### *Hi there &#128075; ,I'm Tran Huy Canh*
+### *Hi there &#128075; ,I'm Tran Canh*
 <h3><img src="https://media.giphy.com/media/ZZZeBiHekVp45F3Dr6/giphy.gif" width="60" height="50" align="center"> Welcome to my Github page</h3>
 
 ### Connect with me via: trancanh1201@gmail.com 
