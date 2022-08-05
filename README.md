@@ -1,11 +1,8 @@
+<img align="right" width="500" alt="Dash" src="/dash.png" /> 
+
 ### *Hi there &#128075; ,I'm Tran Canh*
-<h3><img src="https://media.giphy.com/media/ZZZeBiHekVp45F3Dr6/giphy.gif" width="60" height="50" align="center"> Welcome to my Github page</h3>
 
 ### Connect with me via: trancanh1201@gmail.com 
-<!-- [<img align="left" alt="facebook" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
-[<img align="left" alt="instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram] -->
-
-<br/>
 
 ### Technologies and Tools: 
 [<img align="left" alt="flutter" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][flutter]
