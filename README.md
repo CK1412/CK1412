@@ -1,4 +1,4 @@
-<img align="right" width="500" alt="Dash" src="/dash.png" /> 
+<img align="right" width="360" alt="Dash" src="/dash.png" /> 
 
 ### *Hi there &#128075; ,I'm Tran Canh*
 
