@@ -15,8 +15,12 @@
 
 <br/>
 <br/>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CK1412&layout=compact&theme=radical&langs_count=8)](https://github.com/CK1412/CK1412)
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CK1412&show_icons=true&theme=radical" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CK1412&layout=compact&theme=radical&langs_count=8" />
+</div>
 
 ---
 
