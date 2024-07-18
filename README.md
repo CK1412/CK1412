@@ -8,7 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&color=%230175C2)
 ![Static Badge](https://img.shields.io/badge/-firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+![Static Badge](https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 <br/>
